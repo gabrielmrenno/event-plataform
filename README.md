@@ -14,7 +14,7 @@ Figma do projeto: https://www.figma.com/file/RC8TD6eyHRYNkX8PW94VBN/Plataforma-d
 - Criação do projeto com o Vite
 - Configuração do Tailwind
 - Configuração do GraphCMS e entendimento do GraphQL
-  - Primeira requisição dos dados
+  - Primeira requisição dos dados na plataforma
   
 ## Aula 2: Estrutura visual do projeto
 
